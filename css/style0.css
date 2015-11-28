@@ -13,11 +13,12 @@ body {
     top: 0;
     left: 0;
     padding: 20px;
+    text-align:center;
 }
 
 #content {
     font-size: 14pt;
-    width: 300px;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
@@ -27,15 +28,22 @@ body {
 
 #leftcolumn {
     float: left;
-    width: 310px;
+    width: 45%;
     margin-bottom: 2em;
 }
 
 #rightcolumn {
     float: right;
-    width: 310px;
+    width: 45%;
     margin-bottom: 2em;
 }
+
+#onecolumn {
+    float: right;
+    width: 100%;
+    margin-bottom: 2em;
+}
+
 
 #footer {
     font-size: xx-small;
