@@ -83,3 +83,7 @@ p.reference cite {
     font-weight: normal;
     font-variant: small-caps;
 }
+
+ul, ol {
+    margin-left:1em;
+}
